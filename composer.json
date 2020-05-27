@@ -22,12 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Mabolek\\HttpBenchmarker\\": "src/"
+            "App\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Mabolek\\HttpBenchmarker\\Tests\\": "tests/"
+            "App\\Tests\\": "tests/"
         }
     },
     "replace": {
